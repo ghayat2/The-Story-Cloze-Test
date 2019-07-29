@@ -1,0 +1,11 @@
+tensorflow==1.13.1
+numpy==1.16.2
+gensim==3.7.2
+theano==1.0.4
+nltk==3.4.1
+matplotlib==3.0.1
+pandas==0.24.2
+tensorflow-transform==0.13.
+keras==2.2.4
+nltk==3.4.1
+vaderSentiment==3.2.1
